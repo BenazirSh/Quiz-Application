@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="app_description">Geography Quiz:)</string>
+    <string name="question1">1. What is the capital of Norway?</string>
+    <string name="question2">2. Which countries are located in Europe?</string>
+    <string name="question3">3. How many oceans are on Earth?</string>
+    <string name="question4">4. Name the largest ocean on Earth</string>
+    <string name="question5">5. Check the countries located in Central Asia</string>
+    <string name="country1">France</string>
+    <string name="country2">Russia</string>
+    <string name="country3">The Netherlands</string>
+    <string name="country4">Singapore</string>
+    <string name="oc3">3 oceans</string>
+    <string name="oc5">5 oceans</string>
+    <string name="oc4">4 oceans</string>
+    <string name="uz">Uzbekistan</string>
+    <string name="kz">Kazakhstan</string>
+    <string name="jp">Japan</string>
+    <string name="nd">India</string>
+    <string name="button">Check</string>
+
+</resources>
